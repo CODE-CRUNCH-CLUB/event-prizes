@@ -3,8 +3,16 @@
 ### 🔐 How to Redeem Perks
 Redeem available subscriptions, APIs, and perks by logging in through the **student portal (OneStopForm)**.
 
-- Perks are available to **all participants from the start of the event**
-- Perks will **expire at the end of the event or during the closing ceremony**
+👉 **Important:**  
+- Redeem perks using **the same email you used to register on OneStopForm for this event**.  
+- If you have trouble accessing a perk, **update your OneStopForm submission** to ensure you are registered for the correct event.  
+- For now, use this placeholder link to access the portal:  
+  🔗 **OneStopForm Perk Portal (Link Coming soon):** https://hackuniversity-registration.vercel.app
+
+⏰ **Perk Availability Notice:**  
+Perks will become available **after the official event kickoff**.
+
+- Perks will expire at the end of the event or during the closing ceremony  
 - *Restrictions may apply*
 
 ---
