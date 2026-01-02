@@ -39,8 +39,6 @@ Redeem available subscriptions, APIs, and perks by logging in through the **stud
 - **TBD Sponsor Perk**  
   - 🔗 Link available **Saturday, January 24, 2026 @ 10:00 AM EST**
 
-### ⚠️ Requirements
-- Requires **MLH registration**
 
 ---
 
