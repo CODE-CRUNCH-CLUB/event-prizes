@@ -1,4 +1,4 @@
-## 🎁 Perks, Subscriptions & Awards
+## 🎁 Perks, Subscriptions & Awards (Prizes)
 
 ### 🔐 How to Redeem Perks
 Redeem available subscriptions, APIs, and perks by logging in through the **student portal (OneStopForm)**.
