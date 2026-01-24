@@ -102,9 +102,30 @@ https://hackuniversity-registration.vercel.app
 
 **Opt-In Prizes**
 - **Best Project Built with ElevenLabs** — 6 months of Scale tier ($330/month per member)
-- **Best Use of AI — Powered by Reach Capital**
+
+<details>
+<summary><strong>Best Use of AI — Powered by Reach Capital</strong></summary>
+
+**Category Name:** Best Use of AI Powered by Reach Capital  
+
+**Prize:**  
+- **Logitech Webcams** for the winning team  
+- **Grand Prize Consideration:** Opportunity to meet with **Reach Capital’s expert investors**
+
+**Description:**  
+Reach Capital invites teams to build an **AI-powered solution for frontline workers** — such as those in **construction, retail, healthcare, logistics, and similar industries**.
+
+Your solution should:
+- Meet workers **where they are — on the job and on the go**
+- Address a **real-world operational challenge**
+- Demonstrate thoughtful use of **AI, usability, and impact**
+
+The winning team will receive Logitech webcams and may be selected for a **private meeting with Reach Capital’s investor team**.
 
 </details>
+
+</details>
+>
 
 ---
 
